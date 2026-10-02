@@ -25,4 +25,4 @@ Este programa foi desenvolvido em Python com o objetivo de substituir o registro
 3. Abra o terminal ou prompt de comando na pasta onde se encontra o arquivo principal do programa (`main.py`).
 4. Executar o comando abaixo:
    ```bash
-   python main.py
+   python lanchonete.py
